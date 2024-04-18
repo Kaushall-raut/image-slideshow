@@ -1,0 +1,1 @@
+carosol effect in css 
